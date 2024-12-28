@@ -5,7 +5,7 @@
 #Modified Date:
 #Author: Kajal Chauhan
 # START #
-echo "Please provide one number: \c"
+echo "Please provide a number: \c"
 read -r h
 echo "Please provide another number: \c"
 read -r g
